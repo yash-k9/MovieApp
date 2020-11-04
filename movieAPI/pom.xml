@@ -8,10 +8,10 @@
 		<version>2.3.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.dev</groupId>
-	<artifactId>movieAPI</artifactId>
+	<groupId>com.movieApp</groupId>
+	<artifactId>MovieAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movieAPI</name>
+	<name>MovieAPI</name>
 	<description>API for Movie App</description>
 
 	<properties>
