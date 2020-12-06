@@ -16,6 +16,9 @@ This application was built from scratch.
 - Create a Firebase Project and add the google.services.json.   
 - Run the project.   
 
+<hr style="border:1px solid gray"> </hr>
+
+
 ### The following were used to build the application
 * MVVM
 * Retrofit
