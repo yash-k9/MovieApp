@@ -1,4 +1,4 @@
-./app/google-servies.json
+.app/google-servies.json
 *.iml
 .gradle
 /local.properties
