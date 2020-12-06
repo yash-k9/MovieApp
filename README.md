@@ -11,7 +11,7 @@ This application was built from scratch.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-- Clone the [Spring Mongod Repository](https://github.com/yash-k9/spring-boot-mongodb-movieAPI) and run the project along with monogd.
+- Run [Spring Mongod Repository](https://github.com/yash-k9/spring-boot-mongodb-movieAPI) and monogDb Server.
 - Change the base url in the ServiceGenerator class to your local IP.
 - Create a Firebase Project and add the google.services.json.   
 - Run the project.   
