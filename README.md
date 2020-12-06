@@ -7,7 +7,6 @@ This application was built from scratch.
 ## Features
 - Add to Favourites
 - Search bar
-- Images are being fetched from Firebase
 
 <!-- GETTING STARTED -->
 ## Getting Started
