@@ -2,8 +2,9 @@
 Android App for Movie Reviews.      
 This application was built from scratch.  
 
-## This Application is integrated with the [Spring Mongod API Project](https://github.com/yash-k9/spring-boot-mongodb-movieAPI)
+### This Application is integrated with the [Spring Mongod API Project](https://github.com/yash-k9/spring-boot-mongodb-movieAPI)
 
+<!-- Features -->
 ## Features
 - Add to Favourites
 - Search bar
