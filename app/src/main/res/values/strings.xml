@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_fav">Favourite</string>
+    <string name="nav_search">Search</string>
+    <string name="no_internet">No Internet!</string>
+
+</resources>
