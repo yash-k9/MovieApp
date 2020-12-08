@@ -33,6 +33,6 @@ This application was built from scratch.
 <img src="https://github.com/yash-k9/MovieApp/blob/main/images/movie_list.jpg" width="200"> &ensp; 
 <img src="https://github.com/yash-k9/MovieApp/blob/main/images/search.jpg" width="200"> &ensp;
 <img src="https://github.com/yash-k9/MovieApp/blob/main/images/movie_info.jpg" width="200"> &ensp;
-<img src="https://github.com/yash-k9/MovieApp/blob/main/images/favourites.jpg" width="200"> &ensp
+<img src="https://github.com/yash-k9/MovieApp/blob/main/images/favourites.jpg" width="200"> &ensp;
 <img src="https://github.com/yash-k9/MovieApp/blob/main/images/push_notification.jpg" width="200">
 
