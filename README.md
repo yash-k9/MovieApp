@@ -2,7 +2,7 @@
 Android App for Movie Reviews.      
 This application was built from scratch.  
 
-### This Application is integrated with the [Spring Mongod API Project](https://github.com/yash-k9/spring-boot-mongodb-movieAPI)
+### This Application is integrated with the [Spring Mongod API Project](https://github.com/yash-k9/spring-boot-mongodb-movieAPI) using REST
 
 <!-- Features -->
 ## Features
@@ -23,6 +23,7 @@ This application was built from scratch.
 ### The following were used to build the application
 * MVVM
 * Retrofit
+* REST API
 * Firebase Storage
 * Room Database
 * Fragments
