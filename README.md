@@ -1,6 +1,6 @@
 # MovieApp
 ## This App will be re-built using better architecture 
-Android App for Movie Reviews will be updated soon.      
+Android App for Movie Reviews      
 This application was built from scratch.  
 
 ### This Application is integrated with the [Spring Mongod API Project](https://github.com/yash-k9/spring-boot-mongodb-movieAPI) using REST
